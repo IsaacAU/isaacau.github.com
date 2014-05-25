@@ -9,6 +9,12 @@ tagline: ---- all about programming
 
 This is a personal blog for recording some programming staff.
 
+### Practice C++ on Leetcode
+
+### Emacs Notes
+
+### Lisp Notes
+
 ### All posts
 
 <ul class="posts">
@@ -16,7 +22,3 @@ This is a personal blog for recording some programming staff.
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
-
-
