@@ -1,7 +1,7 @@
 ---
 layout: post
 title :  Hello World
-categories : [lessons, beginner]
+categories : [lessons]
 ---
 
 {% include JB/setup %}
