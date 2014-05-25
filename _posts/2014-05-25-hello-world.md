@@ -1,6 +1,6 @@
 ---
 layout: post
-title :  Hello World
+title :  Ch1 Array and Strings —— 1.8
 
 categories : [lessons]
 ---
