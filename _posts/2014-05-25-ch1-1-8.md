@@ -4,7 +4,7 @@ title: Ch1 Array and Strings —— 1.8
 
 description: "Cracking the Coding Interview"
 
-category: C++
+category: lessons
 ---
 {% include JB/setup %}
 
