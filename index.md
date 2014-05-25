@@ -9,7 +9,7 @@ tagline: ---- all about programming
 
 This is a personal blog for recording some programming staff.
 
-### Practice C++ on Leetcode
+### Practice C++ on Leetcode `[book](http://www.mktechnicalclasses.com/Notes/Cracking%20the%20Coding%20Interview,%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)`
 
 ### Emacs Notes
 
